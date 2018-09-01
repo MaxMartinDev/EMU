@@ -21,8 +21,8 @@
          "name": "Street Fighter 3",
          "size": "301",
          "score": "3.9",
-         "icon": "https://github.com/mamanggdrive/N3S/raw/master/img/003.jpg",
-         "down_url": "https://github.com/mamanggdrive/N3S/raw/master/zip/003.zip"
+         "icon": "https://github.com/mamanggdrive/N3S/raw/master/img/013.jpg",
+         "down_url": "https://github.com/mamanggdrive/N3S/raw/master/zip/013.zip"
       },
       {
          "id": "100014",
@@ -77,8 +77,8 @@
          "name": "Metroid",
          "size": "59",
          "score": "4.2",
-         "icon": "https://github.com/mamanggdrive/N3S/raw/master/img/010.jpg",
-         "down_url": "https://github.com/mamanggdrive/N3S/raw/master/zip/010.zip"
+         "icon": "https://github.com/mamanggdrive/N3S/raw/master/img/020.jpg",
+         "down_url": "https://github.com/mamanggdrive/N3S/raw/master/zip/020.zip"
       }
 
    ]
