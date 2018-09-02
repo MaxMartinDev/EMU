@@ -1,0 +1,85 @@
+{
+   "game": [
+      {
+         "id": "100021",
+         "name": "Kirby Super Star",
+         "size": "2775",
+         "score": "4.8",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/021.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/021.zip"
+      },
+      {
+         "id": "100022",
+         "name": "Mortal Kombat II",
+         "size": "2591",
+         "score": "3.9",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/022.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/022.zip"
+      },
+      {
+         "id": "100023",
+         "name": "Super Donkey Kong 3",
+         "size": "3108",
+         "score": "3.9",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/023.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/023.zip"
+      },
+      {
+         "id": "100024",
+         "name": "Street Fighter Alpha 2",
+         "size": "3572",
+         "score": "3.9",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/024.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/024.zip"
+      },
+      {
+         "id": "100025",
+         "name": "Super Metroid (JU)",
+         "size": "1537",
+         "score": "4.9",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/025.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/025.zip"
+      },
+      {
+         "id": "100026",
+         "name": "Dragon Ball Z - Super Butoden",
+         "size": "997",
+         "score": "3.4",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/026.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/026.zip"
+      },
+      {
+         "id": "100027",
+         "name": "Super Mario RPG - Legend Of The Seven Stars",
+         "size": "2628",
+         "score": "4.8",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/027.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/027.zip"
+      },
+      {
+         "id": "100028",
+         "name": "Sunset Riders",
+         "size": "755",
+         "score": "3.8",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/028.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/028.zip"
+      },
+      {
+         "id": "100029",
+         "name": "Mega Man X",
+         "size": "919",
+         "score": "4.1",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/029.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/029.zip"
+      },
+      {
+         "id": "100030",
+         "name": "Final Fight 3",
+         "size": "1800",
+         "score": "4.3",
+         "icon": "https://github.com/mamanggdrive/SN3S/raw/master/img/030.jpg",
+         "down_url": "https://github.com/mamanggdrive/SN3S/raw/master/zip/030.zip"
+      }
+
+   ]
+}
