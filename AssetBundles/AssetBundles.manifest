@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3714656030
+CRC: 2449893630
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: unused
+      Name: sharkman
+      Dependencies: {}
+    Info_1:
+      Name: backbone
       Dependencies: {}
